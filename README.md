@@ -2,6 +2,6 @@
 
 ### Development based on the mini curse of Michelli Brito, avaliable in:
 
-https://www.youtube.com/playlist?list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D
+[Curso de Spring Boot: Criando uma aplicação Java Web](https://www.youtube.com/playlist?list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D)
 
-https://github.com/MichelliBrito/cursospringboot
+[Código fonte demonstrado nos vídeos](https://github.com/MichelliBrito/cursospringboot)
